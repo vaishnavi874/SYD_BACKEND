@@ -7,11 +7,11 @@ Creating a Restaurant app will cover a lot of features of the MERN stack. In thi
 #  Authors
         **Training Poject( Batch 2)**
             **Stuti Saxena**
-                Roll number:
+                Roll number:22015002913
             **Vyapti Mishra**    
-                Roll number:
+                Roll number:22015002982
             **Vaishnavi**
-                Roll number:
+                Roll number:22015002954
 
 
 ## Features
